@@ -2,7 +2,7 @@
 
 
 
-### Complete face-detection app using Python and the OpenCV module.
+### Complete face-detection app using Python and the OpenCV module :heart::star2::tada:
 
 
 
