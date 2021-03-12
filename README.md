@@ -32,11 +32,15 @@ Note: If you do not have `virtualenv` installed (you'll know if the command abov
 $ pip install virtualenv
 ```
 
+
+
 2. Clone this repository ->
 
 ```bash
 $ git clone https://github.com/Icheka/Image-Recognition-Using-Python-OpenCV.git
 ```
+
+
 
 3. Enter the newly created virtual environment and start it up ->
 
@@ -57,17 +61,23 @@ $ source scripts/activate
 A similar command exists for MacOS. A quick web search for "How To Activate Virtualenv on MacOS" will help.
 
 
+
+
 4. Install the required Python modules -> 
 
 ```bash
 $ pip install requirements.txt
 ```
 
+
+
 5. Start the app ->
 
 ```bash
 $ python main.py
 ```
+
+
 
 6. Quit the app -> 
 
