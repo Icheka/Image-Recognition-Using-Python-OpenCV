@@ -6,7 +6,7 @@ Complete face-detection app using Python and the OpenCV module :heart::star2::ta
 
 
 
-Detects faces in a video (webcam, but can be extended/modified to read video input from several other sources) of all complexions in a variety of lighting conditions.
+Detects faces in a video stream (webcam, but can be extended/modified to read video input from several other sources) of all complexions in a variety of lighting conditions.
 
 
 
