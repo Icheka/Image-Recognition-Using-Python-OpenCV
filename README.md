@@ -20,7 +20,7 @@ Please, give a :star:. It'll go a long way.
 ## How To Use
 Ensure you have the latest version of Python installed. Go to [https://python.org/downloads](https://python.org/downloads) to download the latest release for your local computer.
 
-1. Create a new virtual environment ->
+### 1. Create a new virtual environment ->
 
 ```bash
 virtualenv image_recognition_with_python_env
@@ -34,7 +34,7 @@ $ pip install virtualenv
 
 
 
-2. Clone this repository ->
+### 2. Clone this repository ->
 
 ```bash
 $ git clone https://github.com/Icheka/Image-Recognition-Using-Python-OpenCV.git
@@ -42,7 +42,7 @@ $ git clone https://github.com/Icheka/Image-Recognition-Using-Python-OpenCV.git
 
 
 
-3. Enter the newly created virtual environment and start it up ->
+### 3. Enter the newly created virtual environment and start it up ->
 
 On Windows (using a bash shell like Git Bash):
 ```bash
@@ -63,7 +63,7 @@ A similar command exists for MacOS. A quick web search for "How To Activate Virt
 
 
 
-4. Install the required Python modules -> 
+### 4. Install the required Python modules -> 
 
 ```bash
 $ pip install requirements.txt
@@ -71,7 +71,7 @@ $ pip install requirements.txt
 
 
 
-5. Start the app ->
+### 5. Start the app ->
 
 ```bash
 $ python main.py
@@ -79,7 +79,7 @@ $ python main.py
 
 
 
-6. Quit the app -> 
+### 6. Quit the app -> 
 
 Hit Ctrl + C (Windows) or Cmd + C (MacOS) or the correct keyboard interrupt combination for your operating system.
 
